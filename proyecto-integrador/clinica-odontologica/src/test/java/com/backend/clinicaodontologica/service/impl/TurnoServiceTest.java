@@ -39,11 +39,11 @@ import static org.junit.jupiter.api.Assertions.*;
 
     @BeforeEach
     void setUp() {
-        paciente1 = new PacienteEntradaDto("Claudio", "Caicedo", 123, LocalDate.of(2024, 01, 01),
+        paciente1 = new PacienteEntradaDto("Joseryn", "Caraballo", 123, LocalDate.of(2024, 01, 01),
                 new DomicilioEntradaDto("calle", 12345, "Santiago", "Santiago"));
         pacienteSalida = pacienteService.registrarPaciente(paciente1);
 
-        odontologo1 = new OdontologoEntradaDto(2020, "Jhon", "Perezeition");
+        odontologo1 = new OdontologoEntradaDto(2020, "Jose", "Morles");
         odontologoSalida = odontologoService.registrarOdontologo(odontologo1);
     }
 
@@ -59,13 +59,7 @@ import static org.junit.jupiter.api.Assertions.*;
         TurnoSalidaDto turnoEncontrado = turnoService.buscarTurnoPorId(1L);
         assertNotNull(turnoEncontrado, "El turno es nulo");
         assertEquals(1, turnoEncontrado.getId(), "El ID del turno encontrado no coincide con el ID esperado");
-
-
-
-
-
         }
-
 }
 
 

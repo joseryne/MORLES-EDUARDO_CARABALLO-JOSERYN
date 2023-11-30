@@ -6,7 +6,14 @@
   <component name="ChangeListManager">
     <list default="true" id="1c6e50d8-5b36-48ce-8e7f-ab567742f415" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/agregarOdontologo.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/agregarOdontologo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/AgregarOdontologo.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/AgregarOdontologo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/stylesheet.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/backend/clinicaodontologica/service/impl/OdontologoServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/backend/clinicaodontologica/service/impl/OdontologoServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/backend/clinicaodontologica/service/impl/PacienteServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/backend/clinicaodontologica/service/impl/PacienteServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/backend/clinicaodontologica/service/impl/TurnoServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/backend/clinicaodontologica/service/impl/TurnoServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/backend/clinicaodontologica/service/impl/OdontologoServiceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/backend/clinicaodontologica/service/impl/OdontologoServiceTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/backend/clinicaodontologica/service/impl/PacienteServiceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/backend/clinicaodontologica/service/impl/PacienteServiceTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/backend/clinicaodontologica/service/impl/TurnoServiceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/backend/clinicaodontologica/service/impl/TurnoServiceTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,14 +31,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/JoserynCaraballoT/Desktop/MORLES-EDUARDO_CARABALLO-JOSERYN/proyecto-integrador/clinica-odontologica&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/JoserynCaraballoT/Desktop/MORLES-EDUARDO_CARABALLO-JOSERYN/proyecto-integrador/clinica-odontologica",
+    "settings.editor.selected.configurable": "preferences.sourceCode.Java"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

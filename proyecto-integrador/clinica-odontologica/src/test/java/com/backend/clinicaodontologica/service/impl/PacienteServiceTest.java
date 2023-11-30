@@ -25,15 +25,15 @@ class PacienteServiceTest {
 
     @Test
      @Order(1)
-    void deberiaRegistrarPacienteJuanYRetornarId(){
-        PacienteEntradaDto pacienteEntradaDto = new PacienteEntradaDto("Juan", "Perez",555999, LocalDate.of(2023,01,01),
+    void deberiaRegistrarPacienteJoseYRetornarId(){
+        PacienteEntradaDto pacienteEntradaDto = new PacienteEntradaDto("Jose", "Morles",123456, LocalDate.of(2023,01,01),
                 new DomicilioEntradaDto("calle",12345,"Santiago","Santiago"));
 
         PacienteSalidaDto pacienteSalidaDto =
         pacienteService.registrarPaciente(pacienteEntradaDto);
 
         assertNotNull(pacienteSalidaDto.getId());
-        assertEquals("Juan",pacienteSalidaDto.getNombre());
+        assertEquals("Jose",pacienteSalidaDto.getNombre());
     }
     @Test
     @Order(2)
@@ -42,14 +42,13 @@ class PacienteServiceTest {
             pacienteService.eliminarPaciente(1L);
         } catch (Exception exception){
             exception.printStackTrace();
-        };
+        }
         assertThrows(ResourceNotFoundException.class, () -> pacienteService.eliminarPaciente(1L));
     }
     @Test
     @Order(3)
-    void zdeberiaRetornarunaListaVacia(){
+    void zdeberiaRetornarUnaListaVacia(){
         List<PacienteSalidaDto> pacienteSalidaDtoList= pacienteService.listarPacientes();
         assertTrue(pacienteSalidaDtoList.isEmpty());
     }
-
 }

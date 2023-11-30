@@ -23,10 +23,6 @@ button {
   cursor: pointer;
 }
 
-/*.rounded {
-  border-radius: 100vh;
-}*/
-
 body {
   background-color: rgba(245, 244, 244, 0.966);
   background-repeat: no-repeat;
