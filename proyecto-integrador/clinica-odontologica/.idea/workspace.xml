@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c6e50d8-5b36-48ce-8e7f-ab567742f415" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/AgregarOdontologo.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/AgregarOdontologo.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/stylesheet.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/backend/clinicaodontologica/service/impl/OdontologoServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/backend/clinicaodontologica/service/impl/OdontologoServiceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/backend/clinicaodontologica/service/impl/PacienteServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/backend/clinicaodontologica/service/impl/PacienteServiceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/backend/clinicaodontologica/service/impl/TurnoServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/backend/clinicaodontologica/service/impl/TurnoServiceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/backend/clinicaodontologica/service/impl/OdontologoServiceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/backend/clinicaodontologica/service/impl/OdontologoServiceTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/backend/clinicaodontologica/service/impl/PacienteServiceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/backend/clinicaodontologica/service/impl/PacienteServiceTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/backend/clinicaodontologica/service/impl/TurnoServiceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/backend/clinicaodontologica/service/impl/TurnoServiceTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
