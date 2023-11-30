@@ -7,10 +7,6 @@
     <list default="true" id="1c6e50d8-5b36-48ce-8e7f-ab567742f415" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/static/agregarOdontologo.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/agregarOdontologo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/stylesheet.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/img/logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/odontologosCreados.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/odontologosCreados.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
