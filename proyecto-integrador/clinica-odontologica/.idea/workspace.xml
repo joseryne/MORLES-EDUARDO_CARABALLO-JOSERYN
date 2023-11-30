@@ -7,15 +7,10 @@
     <list default="true" id="1c6e50d8-5b36-48ce-8e7f-ab567742f415" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/static/agregarOdontologo.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/agregarOdontologo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/AgregarOdontologo.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/AgregarOdontologo.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/stylesheet.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/img/logo.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/static/odontologosCreados.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/odontologosCreados.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/agregarOdontologo.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/agregarOdontologo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/css/AgregarOdontologo.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/css/AgregarOdontologo.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/css/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/css/stylesheet.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/odontologosCreados.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/odontologosCreados.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,21 +36,6 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/JoserynCaraballoT/Desktop/MORLES-EDUARDO_CARABALLO-JOSERYN/proyecto-integrador/clinica-odontologica&quot;
   }
 }</component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="clinica-odontologica" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="clinica-odontologica" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

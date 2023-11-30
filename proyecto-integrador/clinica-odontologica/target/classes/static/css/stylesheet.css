@@ -110,3 +110,9 @@ form {
 .ingresarA a:hover {
   color: rgb(84, 76, 102);
 }
+
+h5 {
+text-align: center;
+color: black;
+margin: 12rem;
+}
