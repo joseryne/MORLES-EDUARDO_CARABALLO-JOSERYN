@@ -1,0 +1,183 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Archivo", sans-serif;
+  font-weight: 300;
+  box-sizing: border-box;
+}
+
+h1,
+h2,
+h3 {
+  font-family: "Montserrat", sans-serif;
+}
+
+body {
+  min-height: 100vh;
+  color: white;
+}
+
+button {
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+.rounded {
+  border-radius: 100vh;
+}
+
+body {
+  background-color: white;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  /* capa sobre fondo */
+  box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.6);
+}
+
+header {
+  background-color: black;
+  height: 5rem;
+  margin-bottom: 3rem;
+}
+h1 {
+  padding: 10px;
+}
+h3 {
+  margin: 2rem;
+}
+
+nav {
+  padding: 1rem;
+  height: 100%;
+  display: flex;
+
+}
+
+a {
+  color: rgb(245, 237, 243);
+  text-decoration: none;
+  padding: 0.5em;
+}
+nav a:hover {
+  color: rgb(104, 24, 88);
+}
+
+nav h1 span {
+  font-weight: 300;
+  font-size: 1rem;
+  color: rgb(138, 67, 124);
+}
+nav img {
+  display: block;
+  height: 80%;
+}
+
+.container {
+  padding: 0 5%;
+  display: flex;
+}
+
+form {
+  background-color: black;
+  max-width: 24rem;
+  margin: 0 auto;
+  padding: 2rem 3rem;
+  border-radius: 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.form{
+  background-color: black;
+  max-width: 24rem;
+  margin: 0 auto;
+  padding: 2rem 3rem;
+  border-radius: 1rem;
+  display: flex;
+  flex-direction: column;
+
+
+}
+
+.form-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.form-header h2 {
+  margin-bottom: 0.8rem;
+}
+
+.form-header p {
+  background-color: rgb(138, 67, 124);
+  padding: 0.2rem 1rem;
+}
+
+form label {
+  margin-bottom: 0.3rem;
+}
+
+form input {
+  border-radius: 100vh;
+  margin-bottom: 1rem;
+  padding: 0.3rem 1rem;
+  border: 2px solid rgb(148, 139, 146);
+}
+
+form input:focus {
+  outline: none;
+  border: 2px solid rgb(138, 67, 124);
+}
+
+form button {
+  background-color: rgb(76, 17, 212);
+  color: white;
+  padding: 0.8rem 0;
+  border-radius: 0.3rem;
+  font-size: 0.9rem;
+  font-weight: 400;
+  width: 8rem;
+}
+form button:hover {
+  background-color: rgb(46, 13, 122);
+}
+
+.ingresarA {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  background-color: rgb(98, 74, 153);
+  width: 15rem;
+  margin: 0.5rem;
+}
+.row{
+  text-decoration: none;
+
+}
+.oculto{
+  display: none;
+}
+
+.ingresarA a {
+  color: rgb(232, 230, 238);
+}
+.ingresarA a:hover {
+  color: rgb(84, 76, 102);
+}
+/* Estilos para ver la validación */
+form span {
+  padding-bottom: 20px;
+  text-align: center;
+}
+.skeleton-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1.5em;
+}
+
+
+

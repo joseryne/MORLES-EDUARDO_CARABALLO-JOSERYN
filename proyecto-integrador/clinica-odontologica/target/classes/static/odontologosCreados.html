@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Clínica Odontológica</title>
+  <meta
+          name="description"
+          content="Proyecto integrador | backend"
+  />
+
+  <link rel="stylesheet" href="./css/AgregarOdontologo.css" />
+
+  <script src="./scripts/listarOdontologo.js"></script>
+
+</head>
+<body>
+<header class="container">
+  <nav>
+    <img src="./img/logo.png" alt="logo Clínica" />
+    <h1>Clínica Odontológica</h1>
+  </nav>
+</header>
+
+<div class="container">
+
+  <form id="listar" action="listarOdontologos" method="GET">
+    <div class="form-header">
+      <h2>Clínica Odontológica</h2>
+
+      <button
+              type="submit"
+              class="fa-solid fa-right-from-bracket"
+              id="listarOdontologo">Ver Odontologos</button>
+
+    </div>
+
+    <div class="odontologos">
+
+    </div>
+
+
+</form>
+</div>
+</body>
+</html>
